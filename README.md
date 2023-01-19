@@ -1,4 +1,4 @@
-<img src="https://blog.xsis.academy/wp-content/uploads/2023/01/Feeds-Diaz.png" width="100%">
+<img src="https://blog.xsis.academy/wp-content/uploads/2023/01/Feeds-Diaz.png" width="50%">
 
 # Laravel 9 CRUD qr code generator 
 Laravel 9 CRUD qr code generator
