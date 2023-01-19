@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/brahmantiodiaz/CRUD_laravel_tanpa_reload/main/category%20crud.PNG" width="100%">
+<img src="https://blog.xsis.academy/wp-content/uploads/2023/01/Feeds-Diaz.png" width="100%">
 
 # Laravel 9 CRUD qr code generator 
 Laravel 9 CRUD qr code generator
